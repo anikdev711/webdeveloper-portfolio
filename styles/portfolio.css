@@ -98,3 +98,10 @@ nav a{
     font-size: 18px;
     font-weight: 400;
 }
+.about-info-container{
+    display: flex;
+    justify-content: center;
+}
+.about-info{
+    text-align: center;
+}
